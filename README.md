@@ -24,6 +24,7 @@
     <div align= "center"> <a href=https://www.instagram.com/ezni_18/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ezni_18/"> </a>
          <a href=https://velog.io/@eznnni/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@eznnni/posts"> </a>
          <a href=mailto:unin5412@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:unin5412@gmail.com"> </a>
+         <a href=https://eznnni.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://eznnni.tistory.com/"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
